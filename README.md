@@ -21,7 +21,7 @@ Addressing Crop Damage and Soil Composition Monitoring
 --TechStack:-
 1.IOT, IOT CLOUD
 
- 2.C, PYHTON 
+ 2.C, PYTHON 
 
 3. HTML,CSS,JS
    
